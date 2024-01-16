@@ -11,7 +11,7 @@ This is a React app that implements a chip component with various functionalitie
 
 ## Screenshot
 
-![image-ui](https://github.com/itsmohitnamdeo/Chip-Component/assets/85800451/48b880ac-c0b3-4df4-8e90-b8050b5158c9)
+![image-ui](https://github.com/itsmohitnamdeo/Chip-Component/assets/85800451/5f9f1552-a031-4e8d-b728-6678da454ffc)
 
 
 ## Contact
